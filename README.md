@@ -1,3 +1,3 @@
-#Pascal repository
+# Pascal repository
 
 Pascal exercises
