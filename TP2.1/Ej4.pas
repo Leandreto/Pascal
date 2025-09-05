@@ -2,13 +2,13 @@ Program Ej4;
 Var
   numero: Integer;
 Begin
-  Write('Ingrese un número: ');
+  Write('Ingrese un nï¿½mero: ');
   Readln(numero);
   If (numero Mod 10 = 0) Then
-    Writeln('Es múltiplo de 10.')
+    Writeln('Es mï¿½ltiplo de 10.')
   Else If (numero Mod 5 = 0) Then
-         Writeln('Es múltiplo de 5.')
+    Writeln('Es mï¿½ltiplo de 5.')
   Else
-    Writeln('No es múltiplo de 5 ni de 10.');
+    Writeln('No es mï¿½ltiplo de 5 ni de 10.');
   Readln;
 End.

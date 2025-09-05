@@ -7,7 +7,7 @@ Begin
   If edad < 13 Then
     Writeln('Entrada infantil.')
   Else If edad <= 17 Then
-         Writeln('Entrada adolescente.')
+    Writeln('Entrada adolescente.')
   Else
     Writeln('Entrada adulto.');
   Readln;
